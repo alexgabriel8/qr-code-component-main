@@ -8,17 +8,16 @@
 
 main, html {
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 main {
     background-color: hsl(212, 45%, 89%);
 }
 
 section {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     width: 340px;
     height: 515px;
     margin: auto;
@@ -51,5 +50,5 @@ section > p {
     padding: 10px 0px;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    font-size: 15px;
+    font-size: 0.95rem;
 }
