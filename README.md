@@ -26,6 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Code-wise, the only thing I learned was that using padding on an element makes its border-radius act strange. margin did what I wanted without breaking the border-radius.
+Code-wise, the only thing I learned was that using padding on an image makes its border-radius act strange. Though margin did what I wanted without breaking the border-radius.
 
 The real learning I had was the experience. It's the first challenge I made in english and that's not from a course I was doing. It is also the first project I actually write a readme and use a bit of Markdown.
